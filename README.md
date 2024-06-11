@@ -3,6 +3,8 @@
 ## Overview
 The Fractal Generator addon for Blender, created by Euan Goodbrand, allows users to generate 3D fractal structures such as Sierpinski Tetrahedrons and Menger Sponges. This addon provides a user-friendly interface to customize fractal properties, add animations, and render high-quality images or animations.
 
+![GUI Image](Assets/gui.png)
+
 ## Features
 - **Fractal Types**: Generate Sierpinski Tetrahedrons and Menger Sponges.
 - **Recursion Level**: Control the level of recursion for fractal generation.
@@ -57,6 +59,8 @@ The Fractal Generator addon for Blender, created by Euan Goodbrand, allows users
 13. Set the render samples to 128.
 14. Check the `Render as Animation` box.
 15. Click `Generate Fractal` to create and render the fractal animation.
+
+![Example Output](Assets/triangle.png)
 
 ## Script Overview
 The script contains several functions and classes to facilitate fractal generation and rendering:
