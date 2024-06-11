@@ -86,6 +86,23 @@ The script contains several functions and classes to facilitate fractal generati
 ## License
 This addon is licensed under the MIT License.
 
+## Completed Features
+- [x] Generate 3D fractals (Sierpinski Tetrahedron, Menger Sponge)
+- [x] Customizable recursion levels
+- [x] Material customization (color, metallic, roughness)
+- [x] Background color customization
+- [x] Camera animations (straight, circular, spiral)
+- [x] Render settings customization (resolution, format, samples)
+- [x] Save renders as images or animations
+- [x] Gradient color based on recursion depth
+
+## Future Enhancements
+- [ ] Add 2D fractals (e.g., Sierpinski Triangle, Koch Snowflake)
+- [ ] Improve efficiency for handling higher recursion levels
+- [ ] Add more fractal types (e.g., Julia Set, Mandelbrot Set)
+- [ ] Implement interactive real-time fractal adjustments
+- [ ] Enhance UI with more user-friendly controls and previews
+
 ---
 
 Enjoy generating beautiful fractal structures with the Fractal Generator addon for Blender! If you have any questions or need further assistance, feel free to reach out to the author.
