@@ -60,7 +60,7 @@ The Fractal Generator addon for Blender, created by Euan Goodbrand, allows users
 14. Check the `Render as Animation` box.
 15. Click `Generate Fractal` to create and render the fractal animation.
 
-![Example Output](Assets/triangle.png)
+![Example Output](Assets/triangle1.png)
 
 ## Script Overview
 The script contains several functions and classes to facilitate fractal generation and rendering:
