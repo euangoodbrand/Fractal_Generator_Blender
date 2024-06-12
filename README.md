@@ -109,4 +109,4 @@ This addon is licensed under the MIT License.
 
 ---
 
-Enjoy generating beautiful fractal structures with the Fractal Generator addon for Blender! If you have any questions or need further assistance, feel free to reach out to the author.
+Enjoy generating beautiful fractal structures with the Fractal Generator addon for Blender! If you have any questions or need further assistance, feel free to reach out to me on here or my email on my website. If you want to collaborate just form the repo and make a pull request.
